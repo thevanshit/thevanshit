@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone! 👋, I'm Vanshit Gaur</h1>
+<h1 align="center">Hey Everyone!, I'm Vanshit Gaur</h1>
 <h3 align="center">Computer Science Engineer</h3>
 
 <p align="left">
@@ -7,13 +7,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 Computer Science Engineering student  
-- 🌱 Currently learning **Data Structures and Algorithms, Competitive Programming, Web Development & DevOps**
-- 💻 Interested in **Competitive Programming, MERN Stack, JavaScript, Python**
-- 📂 All my projects are available on my GitHub profile
-- 📫 Reach me at **vanshit2509@gmail.com**
+- Computer Science Engineering student  
+- Currently learning **Data Structures and Algorithms, Competitive Programming, Web Development & DevOps**
+- Interested in **Competitive Programming, MERN Stack, JavaScript, Python**
+- All my projects are available on my GitHub profile
+- Reach me at **vanshit2509@gmail.com**
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
 #### Programming Languages
 ![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevanshit" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thevanshit&theme=tokyonight" />
 </p>
 
 <p align="center">
