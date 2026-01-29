@@ -67,21 +67,21 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=thevanshit&show_icons=true&hide_border=true&theme=github_dark" 
-    alt="GitHub Stats"
+    height="165"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=thevanshit&theme=github-dark&hide_border=true" 
-    alt="GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com?user=thevanshit&theme=tokyonight&hide_border=true" 
+    height="165"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=thevanshit&layout=compact&hide_border=true&theme=github_dark" 
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=thevanshit&layout=compact&theme=github_dark&hide_border=true" 
+    height="165"
   />
 </p>
 
