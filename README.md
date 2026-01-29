@@ -57,7 +57,7 @@
 ### GitHub Metrics
 
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="75%" />
 </p>
 
 ---
@@ -66,21 +66,21 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=thevanshit&show_icons=true&hide_border=true&theme=default" 
+    src="https://github-readme-stats.vercel.app/api?username=thevanshit&show_icons=true&hide_border=true&theme=github_dark" 
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=thevanshit&hide_border=true&theme=tokyonight" 
+    src="https://streak-stats.demolab.com?user=thevanshit&theme=github-dark&hide_border=true" 
     alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=thevanshit&layout=compact&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=thevanshit&layout=compact&hide_border=true&theme=github_dark" 
     alt="Top Languages"
   />
 </p>
