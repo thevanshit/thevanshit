@@ -54,14 +54,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ---
 
-### GitHub Metrics
-
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="75%" />
-</p>
-
----
-
 ### GitHub Stats
 
 <p align="center">
