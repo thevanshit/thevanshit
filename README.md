@@ -54,26 +54,29 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ---
 
-### GitHub Stats
+## GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=thevanshit&show_icons=true&hide_border=true&theme=github_dark"
+        height="190"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com?user=thevanshit&theme=tokyonight&hide_border=true"
+        height="190"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=thevanshit&show_icons=true&hide_border=true&theme=github_dark" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=thevanshit&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=thevanshit&layout=compact&theme=github_dark&hide_border=true" 
-    height="165"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=thevanshit&layout=compact&theme=github_dark&hide_border=true"
+    height="190"
   />
 </p>
 
