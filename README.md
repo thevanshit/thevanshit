@@ -58,31 +58,40 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thevanshit&show_icons=true&theme=default" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=thevanshit&show_icons=true&hide_border=true&theme=default" 
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thevanshit&theme=tokyonight" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=thevanshit&hide_border=true&theme=tokyonight" 
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thevanshit&layout=compact" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=thevanshit&layout=compact&hide_border=true" 
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
 ### Note
 
-This profile reflects my learning journey, projects, and consistent practice in software development, competitive programming, and DevOps.
+This profile reflects my learning journey, projects, and consistent practice in  
+**software development, competitive programming, and DevOps**.
 
 Always learning. Always building.
 
+---
 
-![Git](https://img.shields.io/badge/Git-999999?style=for-the-badge&logo=Git&logoColor=red)
+### Tools & Platform
+
+![Git](https://img.shields.io/badge/Git-999999?style=for-the-badge&logo=git&logoColor=red)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<hr>  
-
-### <samp>Github Stats
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
