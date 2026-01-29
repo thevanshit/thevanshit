@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone! 👋, I'm Vanshit Gaur</h1>
-<h3 align="center">Computer Science Engineer | Web Development & DevOps Learner</h3>
+<h3 align="center">Computer Science Engineer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=thevanshit&label=Profile%20views&color=0e75b6&style=flat" alt="thevanshit" />
