@@ -9,7 +9,7 @@
 </p>
 
 - 🎓 Computer Science Engineering student with a strong interest in problem-solving  
-- 📚 Currently learning **Data Structures & Algorithms**, **Competitive Programming**, **Web Development**, and **DevOps**
+- 📚 Currently learning **Data Structures & Algorithms**, **Competitive Programming**, **Web Development** and **DevOps**
 - 💬 Ask me about **Competitive Programming, MERN Stack, JavaScript, Python**
 - 🧠 Focused on building solid fundamentals and understanding systems beyond surface level
 - 📫 Reach me at **vanshit2509@gmail.com**
@@ -88,5 +88,5 @@
 
 This profile reflects my ongoing learning journey as a computer science student.
 I prioritize consistency, clarity, and depth over shortcuts.
-My goal is to steadily grow across **competitive programming**, **software development**, and **DevOps**, while building systems that are reliable, maintainable, and well-understood.
+My goal is to steadily grow across **competitive programming**, **software development** and **DevOps**, while building systems that are reliable, maintainable and well-understood.
 
