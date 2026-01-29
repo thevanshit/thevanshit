@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone!, I'm Vanshit Gaur</h1>
+<h1 align="center">Hey Everyone! I'm Vanshit Gaur</h1>
 <h3 align="center">Computer Science Engineer</h3>
 
 <p align="left">
