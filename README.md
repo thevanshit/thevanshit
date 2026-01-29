@@ -75,7 +75,7 @@
   </tr>
 </table>
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=thevanshit&theme=tokyonight&hide_border=true"
     height="185"
