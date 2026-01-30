@@ -80,13 +80,28 @@
   <tr>
     <td>
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thevanshit&theme=github_dark"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thevanshit&theme=github_dark"
       />
     </td>
     <td>
       <img
         src="https://github-readme-streak-stats.herokuapp.com?user=thevanshit&theme=tokyonight&hide_border=true"
         height="170"
+      />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thevanshit&theme=github_dark"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thevanshit&theme=github_dark"
       />
     </td>
   </tr>
