@@ -80,8 +80,7 @@
   <tr>
     <td>
       <img
-        src="https://raw.githubusercontent.com/thevanshit/thevanshit/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thevanshit&theme=github_dark"
       />
     </td>
     <td>
