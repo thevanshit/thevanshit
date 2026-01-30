@@ -112,7 +112,7 @@
   <tr>
     <td align="center">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=thevanshit&theme=github_dark"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-language?username=thevanshit&theme=github_dark"
         height="165"
       />
     </td>
