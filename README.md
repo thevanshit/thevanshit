@@ -59,17 +59,19 @@
 
 ## GitHub Stats
 
+<!-- Row 1: Overview (heavy card, full width) -->
 <table>
   <tr>
     <td align="center">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thevanshit&theme=github_dark"
-        height="180"
+        height="185"
       />
     </td>
   </tr>
 </table>
 
+<!-- Row 2: Core activity -->
 <table>
   <tr>
     <td align="center">
@@ -87,11 +89,30 @@
   </tr>
 </table>
 
+<!-- Row 3: Language focus -->
 <table>
   <tr>
     <td align="center">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thevanshit&theme=github_dark"
+        height="165"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thevanshit&theme=github_dark"
+        height="165"
+      />
+    </td>
+  </tr>
+</table>
+
+<!-- Row 4: Activity patterns -->
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=thevanshit&theme=github_dark"
         height="165"
       />
     </td>
