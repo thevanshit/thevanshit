@@ -57,20 +57,14 @@
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
 <table>
   <tr>
-    <td>
+    <td align="center">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thevanshit&theme=github_dark"
-        height="170"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=thevanshit&layout=compact&theme=github_dark&hide_border=true"
-        height="170"
+        height="180"
       />
     </td>
   </tr>
@@ -78,15 +72,16 @@
 
 <table>
   <tr>
-    <td>
+    <td align="center">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thevanshit&theme=github_dark"
+        height="165"
       />
     </td>
-    <td>
+    <td align="center">
       <img
         src="https://github-readme-streak-stats.herokuapp.com?user=thevanshit&theme=tokyonight&hide_border=true"
-        height="170"
+        height="165"
       />
     </td>
   </tr>
@@ -94,14 +89,16 @@
 
 <table>
   <tr>
-    <td>
+    <td align="center">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thevanshit&theme=github_dark"
+        height="165"
       />
     </td>
-    <td>
+    <td align="center">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thevanshit&theme=github_dark"
+        height="165"
       />
     </td>
   </tr>
