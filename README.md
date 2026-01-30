@@ -76,12 +76,22 @@
   </tr>
 </table>
 
-<p align="left">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=thevanshit&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://raw.githubusercontent.com/thevanshit/thevanshit/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com?user=thevanshit&theme=tokyonight&hide_border=true"
+        height="170"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
