@@ -58,27 +58,24 @@
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=thevanshit&show_icons=true&hide_border=true&theme=github_dark"
-        height="185"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=thevanshit&layout=compact&theme=github_dark&hide_border=true"
-        height="185"
-      />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=thevanshit&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=1800"
+    height="180"
+  />
+</p>
 
 <p align="left">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=thevanshit&theme=tokyonight&hide_border=true"
-    height="185"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=thevanshit&layout=compact&hide_border=true&theme=github_dark&cache_seconds=1800"
+    height="180"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=thevanshit&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="180"
   />
 </p>
 
