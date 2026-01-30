@@ -1,4 +1,4 @@
-<h1 align="center">Hey everyone, I’m Vanshit Gaur</h1>
+<h2 align="center">Hey everyone, I’m Vanshit Gaur</h2>
 <h3 align="center">Computer Science Engineer</h3>
 
 <p align="left">
@@ -63,7 +63,7 @@
   <tr>
     <td>
       <img
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thevanshit&show_icons=true&theme=github_dark&hide_border=true"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thevanshit&theme=github_dark"
         height="170"
       />
     </td>
