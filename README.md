@@ -16,7 +16,7 @@
 
 ---
 
-## 🔗 Connect with me
+## Connect with me
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshit-gaur-524b9b317)
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠 Skills & Technologies
+## Skills & Technologies
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
@@ -57,13 +57,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <table>
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=thevanshit&show_icons=true&hide_border=true&theme=github_dark"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thevanshit&show_icons=true&theme=github_dark&hide_border=true"
         height="170"
       />
     </td>
@@ -85,7 +85,7 @@
 
 ---
 
-## 📝 Note
+## Note
 
 This profile reflects my ongoing learning journey as a computer science student.  
 I prioritize **consistency, clarity, and depth** over shortcuts.  
