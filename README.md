@@ -97,7 +97,7 @@
     </td>
     <td align="center">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thevanshit&theme=github_dark"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thevanshit&theme=github_dark"
         height="165"
       />
     </td>
