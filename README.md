@@ -80,7 +80,7 @@
     </td>
     <td align="center">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=thevanshit&theme=tokyonight&hide_border=true"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thevanshit&theme=github_dark"
         height="165"
       />
     </td>
