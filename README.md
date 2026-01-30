@@ -64,19 +64,19 @@
     <td>
       <img
         src="https://github-readme-stats.vercel.app/api?username=thevanshit&show_icons=true&hide_border=true&theme=github_dark"
-        height="185"
+        height="170"
       />
     </td>
     <td>
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=thevanshit&layout=compact&theme=github_dark&hide_border=true"
-        height="185"
+        height="170"
       />
     </td>
   </tr>
 </table>
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=thevanshit&theme=tokyonight&hide_border=true"
     height="170"
