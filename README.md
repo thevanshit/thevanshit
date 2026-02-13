@@ -63,7 +63,7 @@
   <tr>
     <td align="center">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thevanshit&theme=github_dark"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thevanshit&theme=github_light"
         height="180"
       />
     </td>
@@ -74,13 +74,13 @@
   <tr>
     <td align="center">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thevanshit&theme=github_dark"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thevanshit&theme=github_light"
         height="165"
       />
     </td>
     <td align="center">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thevanshit&theme=github_dark"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thevanshit&theme=github_light"
         height="165"
       />
     </td>
@@ -91,13 +91,13 @@
   <tr>
     <td align="center">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thevanshit&theme=github_dark"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thevanshit&theme=github_light"
         height="165"
       />
     </td>
     <td align="center">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thevanshit&theme=github_dark"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thevanshit&theme=github_light"
         height="165"
       />
     </td>
