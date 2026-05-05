@@ -1,8 +1,8 @@
 <h1 align="center">Hi!, I'm Vanshit Gaur</h1>
 <p align="center">Computer Science Engineer</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thevanshit&style=flat-square&color=0ea5e9" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=thevanshit&style=flat-square&label=&color=6b7280" />
 </p>
 
 <p align="center">
