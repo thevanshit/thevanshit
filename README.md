@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Vanshit</h1>
 <h3><p align="center">Computer Science Engineer</p></h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=thevanshit&label=views&color=0ea5e9&style=flat" />
-</p>
-
 <p align="center">
   <a href="https://github.com/thevanshit">
     <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000"/>
