@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=thevanshit&label=views&color=0ea5e9&style=flat" />
 </p>
 
----
-
 <p align="center">
   <a href="https://github.com/thevanshit">
     <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000"/>
@@ -31,8 +29,6 @@
   </a>
 </p>
 
----
-
 ### About
 
 I’m Vanshit — A Computer Science Engineer who enjoys understanding how things actually work.
@@ -45,8 +41,6 @@ Right now, I’m focused on:
 - Real-world Projects  
 - Learning by doing  
 
----
-
 ### GitHub
 
 <p align="center">
@@ -57,8 +51,6 @@ Right now, I’m focused on:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thevanshit&theme=default"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thevanshit&theme=default"/>
 </p>
-
----
 
 <p align="center">
   <i>Building, Learning, Improving </i>
