@@ -1,5 +1,5 @@
 <h1 align="center">Vanshit</h1>
-<p align="center">Computer Science Engineer</p>
+<h3><p align="center">Computer Science Engineer</p></h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=thevanshit&label=views&color=0ea5e9&style=flat" />
