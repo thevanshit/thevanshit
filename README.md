@@ -29,17 +29,6 @@
   </a>
 </p>
 
-### About
-
-I’m Vanshit — A Computer Science Engineer who enjoys understanding how things actually work.
-
-I spend most of my time building, breaking, and improving systems —  
-from backend workflows to experimenting with models and ideas.
-
-Right now, I’m focused on:
-- Open Source  
-- Real-world Projects  
-- Learning by doing  
 
 ### GitHub
 
