@@ -1,4 +1,4 @@
-<h1 align="center">Hi!, I'm Vanshit Gaur</h1>
+<h1 align="center">Hi, I'm Vanshit</h1>
 <p align="center">Computer Science Engineer</p>
 
 <p align="left">
@@ -31,15 +31,15 @@
 
 ### About
 
-I’m Vanshit — a computer science undergraduate who enjoys understanding how things actually work.
+I’m Vanshit — A Computer Science Undergraduate who enjoys understanding how things actually work.
 
 I spend most of my time building, breaking, and improving systems —  
 from backend workflows to experimenting with models and ideas.
 
 Right now, I’m focused on:
-- open source  
-- real-world projects  
-- learning by doing  
+- Open Source  
+- Real-world Projects  
+- Learning by doing  
 
 ---
 
@@ -57,5 +57,5 @@ Right now, I’m focused on:
 ---
 
 <p align="center">
-  <i>building, learning, improving — one system at a time</i>
+  <i>Building, Learning, Improving</i>
 </p>
