@@ -2,7 +2,7 @@
 <p align="center">Computer Science Engineer</p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=thevanshit&style=flat-square&label=&color=6b7280" />
+  <img src="https://komarev.com/ghpvc/?username=thevanshit&style=flat-square&color=6b7280" />
 </p>
 
 <p align="center">
