@@ -1,10 +1,9 @@
 <h1 align="center">Hi!, I'm Vanshit Gaur</h1>
 <p align="center">Computer Science Engineer</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=thevanshit&label=views&color=0ea5e9&style=flat" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thevanshit&style=flat-square&color=0ea5e9" />
 </p>
-
 
 <p align="center">
   <a href="https://github.com/thevanshit">
