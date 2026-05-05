@@ -2,7 +2,7 @@
 <p align="center">Computer Science Engineer</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thevanshit&style=flat-square&label=&color=d1d5db" />
+  <img src="https://komarev.com/ghpvc/?username=thevanshit&style=flat-square&label=&color=e5e7eb" />
 </p>
 
 <p align="center">
@@ -29,37 +29,35 @@
   </a>
 </p>
 
----
+<br>
 
 <p align="center">
-  <sub>
-    I like understanding how things work — then building them better.
-  </sub>
+  <sub>I like understanding how things work — then building them better.</sub>
 </p>
 
----
+<br>
 
 ### About
 
-I’m Vanshit — a computer science undergraduate focused on learning by building.
+I’m Vanshit — a computer science undergraduate.
 
-I work across backend systems, open source, and experimentation —  
-trying to understand systems deeply rather than just using them.
+I learn by building, breaking, and improving systems —  
+with a focus on understanding things deeply rather than just using them.
 
----
+<br>
 
 ### GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thevanshit&theme=default"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thevanshit&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thevanshit&theme=default"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thevanshit&theme=default"/>
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thevanshit&theme=default" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thevanshit&theme=default" />
 </p>
 
----
+<br>
 
 <p align="center">
   <sub>building • learning • improving</sub>
