@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Vanshit</h1>
 <h3><p align="center">Computer Science Engineer</p></h3>
 
+
 <p align="center">
   <a href="https://github.com/thevanshit">
     <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000"/>
@@ -24,6 +25,7 @@
     <img src="https://img.shields.io/badge/AtCoder-ffffff?style=for-the-badge&logo=atcoder&logoColor=000000"/>
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thevanshit&theme=default"/>
