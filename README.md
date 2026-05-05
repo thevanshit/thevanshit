@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vanshit</h1>
-<p align="center">Computer Science Engineer</p>
+<h3> <p align="center">Computer Science Engineer</p> </h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=thevanshit&style=flat-square&color=6b7280" />
 </p>
 
