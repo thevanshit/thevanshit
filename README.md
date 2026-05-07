@@ -6,13 +6,13 @@
   <a href="https://github.com/thevanshit">
     <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000"/>
   </a>
-  <a href="https://linkedin.com/in/vanshit-gaur-524b9b317">
+  <a href="https://linkedin.com/in/thevanshit">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="https://twitter.com/thevanshitgaur">
     <img src="https://img.shields.io/badge/X-ffffff?style=for-the-badge&logo=x&logoColor=000000"/>
   </a>
-  <a href="https://leetcode.com/thevanshitgaur">
+  <a href="https://leetcode.com/thevanshit">
     <img src="https://img.shields.io/badge/LeetCode-ffffff?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
   </a>
   <a href="https://codeforces.com/profile/thevanshit">
