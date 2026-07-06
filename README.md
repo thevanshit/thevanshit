@@ -14,15 +14,6 @@
   <a href="https://leetcode.com/thevanshit">
     <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
   </a>
-  <a href="https://codeforces.com/profile/thevanshit">
-    <img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/>
-  </a>
-  <a href="https://www.codechef.com/users/thevanshit">
-    <img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=5B4638"/>
-  </a>
-  <a href="https://atcoder.jp/users/thevanshit">
-    <img src="https://img.shields.io/badge/AtCoder-0d1117?style=for-the-badge&logo=atcoder&logoColor=ffffff"/>
-  </a>
 </p>
 
 <p align="center">
