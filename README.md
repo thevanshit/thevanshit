@@ -29,19 +29,6 @@
   </a>
 </p>
 
----
-
-## Competitive Programming
-
-| Platform | Solved | Rating | Profile |
-|----------|:------:|:------:|:-------:|
-| CodeForces | 140 | -- | [thevanshit](https://codeforces.com/profile/thevanshit) |
-| CodeChef | 90 | -- | [thevanshit](https://www.codechef.com/users/thevanshit) |
-| AtCoder | 65 | -- | [thevanshit](https://atcoder.jp/users/thevanshit) |
-| LeetCode | -- | -- | [thevanshitgaur](https://leetcode.com/thevanshitgaur) |
-
----
-
 ## GitHub Stats
 
 <p align="center">
