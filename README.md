@@ -66,22 +66,15 @@
 </details>
 
 <details open>
-<summary><strong>Backend</strong></summary>
+<summary><strong>Backend & Databases</strong></summary>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
   <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Bun-0d1117?style=for-the-badge&logo=bun&logoColor=f9f9f9"/>
-</p>
-</details>
-
-<details open>
-<summary><strong>Databases & ORMs</strong></summary>
-<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
   <img src="https://img.shields.io/badge/Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=2D3748"/>
-  <img src="https://img.shields.io/badge/Drizzle_ORM-0d1117?style=for-the-badge&logo=drizzle&logoColor=C5F74F"/>
-  <img src="https://img.shields.io/badge/Vector_Databases-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Drizzle-0d1117?style=for-the-badge&logo=drizzle&logoColor=C5F74F"/>
 </p>
 </details>
 
@@ -90,61 +83,25 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
   <img src="https://img.shields.io/badge/Hugging_Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-  <img src="https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MCP-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Engineering-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Agents-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agent_Frameworks-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Memory_Frameworks-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Fine--tuning-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RL_Fine--tuning-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLM_Observability-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Context_Engineering-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Multimodal_AI-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer_Use_Agents-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Evals-0d1117?style=for-the-badge"/>
 </p>
 </details>
 
 <details open>
-<summary><strong>DevOps & Cloud</strong></summary>
+<summary><strong>DevOps & Infrastructure</strong></summary>
 <p align="center">
   <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
   <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-  <img src="https://img.shields.io/badge/Virtual_Machines-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bare_Metal-0d1117?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
   <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
-  <img src="https://img.shields.io/badge/IaC-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Reverse_Proxies-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SSL%2FTLS-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Container_Runtimes-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Auto_Scaling_Groups-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MIGs-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Monitoring-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CDNs-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Object_Storage-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firecracker-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
 </p>
 </details>
 
 <details open>
-<summary><strong>Networking & Communication</strong></summary>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTTP-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WebSockets-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WebRTC-0d1117?style=for-the-badge&logo=webrtc&logoColor=333333"/>
-  <img src="https://img.shields.io/badge/Queues-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pub%2FSub-0d1117?style=for-the-badge"/>
-</p>
-</details>
-
-<details open>
-<summary><strong>Monorepo & Build Tools</strong></summary>
+<summary><strong>Tools & Other</strong></summary>
 <p align="center">
   <img src="https://img.shields.io/badge/Turborepo-0d1117?style=for-the-badge&logo=turborepo&logoColor=EF4444"/>
+  <img src="https://img.shields.io/badge/WebRTC-0d1117?style=for-the-badge&logo=webrtc&logoColor=333333"/>
 </p>
 </details>
 
