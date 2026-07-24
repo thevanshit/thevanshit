@@ -29,8 +29,6 @@
   </a>
 </p>
 
-#### GitHub Stats
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thevanshit&theme=github_dark"/>
 </p>
@@ -39,8 +37,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thevanshit&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thevanshit&theme=github_dark"/>
 </p>
-
----
 
 <p align="center">
   <samp><i>Building, Learning, Improving.</i></samp>
