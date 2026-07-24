@@ -43,5 +43,5 @@
 ---
 
 <p align="center">
-  <samp><i>Building, Learning, Improving -- one commit at a time.</i></samp>
+  <samp><i>Building, Learning, Improving.</i></samp>
 </p>
