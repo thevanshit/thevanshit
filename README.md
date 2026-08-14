@@ -15,7 +15,7 @@
   <a href="https://twitter.com/thevanshitgaur">
     <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff"/>
   </a>
-  <a href="https://leetcode.com/thevanshitgaur">
+  <a href="https://leetcode.com/thevanshit">
     <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
   </a>
   <a href="https://codeforces.com/profile/thevanshit">
