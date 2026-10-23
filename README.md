@@ -15,7 +15,7 @@
   <a href="https://leetcode.com/thevanshit">
     <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
   </a>
-  <a href="https://codeforces.com/profile/thevanshit">
+  <a href="https://codeforces.com/profile/thevanshitgaur">
     <img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces"/>
   </a>
   <a href="https://www.codechef.com/users/thevanshit">
